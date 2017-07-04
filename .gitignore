@@ -1,0 +1,19 @@
+﻿##############################
+# Repository Specific Ignores
+##############################
+packages.xml
+
+##############################
+# Common Ignores
+##############################
+/packages
+/tools
+/output
+**/bin
+**/obj
+**/bower_components
+**/node_modules
+**/*.csproj.user
+/.vs
+**/PrecompiledWeb
+*.user
