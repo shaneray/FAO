@@ -51,7 +51,7 @@ Task("Deploy")
         MoveFile("Index.rename.html", "index.html");
 
         //Push changes to git
-        StartPowershellScript("git remote set-url origin https://github.com/shaneray/ShaneSpace.Blog.git");
+        StartPowershellScript("git remote set-url origin https://github.com/shaneray/FAO.git");
         StartPowershellScript("git add -A");
         StartPowershellScript("git commit -a -m \"Commit from Cake\"");
         StartPowershellScript("git push");
