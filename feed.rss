@@ -5,8 +5,8 @@
 		<link>/FAO</link>
 		<description>Facts Are Optional</description>
 		<copyright>2017</copyright>
-		<pubDate>Sun, 16 Jul 2017 14:30:03 GMT</pubDate>
-		<lastBuildDate>Sun, 16 Jul 2017 14:30:03 GMT</lastBuildDate>
+		<pubDate>Sun, 16 Jul 2017 14:37:02 GMT</pubDate>
+		<lastBuildDate>Sun, 16 Jul 2017 14:37:02 GMT</lastBuildDate>
 		<item>
 			<title>Ep. 02 - “Press Who’s Coming to Dinner”</title>
 			<link>/FAO/posts/Ep.%252002%2520-%2520Press%2520Whos%2520Coming%2520to%2520Dinner</link>
@@ -15,7 +15,7 @@
 			<pubDate>Mon, 03 Jul 2017 15:57:30 GMT</pubDate>
 			<content:encoded>&lt;p&gt;Who are these people with their microphones, notepads, and cameras? And where do they get the right to stick their noses in… oh, never mind. The press plays an important role in our society. They can also be unbearably annoying. We talk about some of the more pivotal moments in the history of the free press (except for Deep throat).&lt;/p&gt;
 &lt;audio controls&gt;
-    &lt;source src="/assets/audio/FactsAreOptional_2_Press Who's Coming To Dinner.mp3" type="audio/mpeg"&gt;
+    &lt;source src="../assets/audio/FactsAreOptional_2_Press Who's Coming To Dinner.mp3" type="audio/mpeg"&gt;
     Your browser does not support the audio element.
 &lt;/audio&gt;
 </content:encoded>
@@ -28,7 +28,7 @@
 			<pubDate>Sun, 02 Jul 2017 20:41:37 GMT</pubDate>
 			<content:encoded>&lt;p&gt;For a seemingly well-liked freedom, the right to free speech has a controversial past and present. How did it come about? When was it challenged? Will it survive? We take look at all of it in a not-so-serious manner.&lt;/p&gt;
 &lt;audio controls&gt;
-    &lt;source src="/assets/audio/FactsAreOptional_1 _You Can't Say Shit Mixdown 1.mp3" type="audio/mpeg"&gt;
+    &lt;source src="../assets/audio/FactsAreOptional_1 _You Can't Say Shit Mixdown 1.mp3" type="audio/mpeg"&gt;
     Your browser does not support the audio element.
 &lt;/audio&gt;
 </content:encoded>
