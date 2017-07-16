@@ -13,6 +13,6 @@ Tags:
 For a seemingly well-liked freedom, the right to free speech has a controversial past and present. How did it come about? When was it challenged? Will it survive? We take look at all of it in a not-so-serious manner.
 
 <audio controls>
-    <source src="/assets/audio/FactsAreOptional_1 _You Can't Say Shit Mixdown 1.mp3" type="audio/mpeg">
+    <source src="../assets/audio/FactsAreOptional_1 _You Can't Say Shit Mixdown 1.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
