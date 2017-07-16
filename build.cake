@@ -8,6 +8,7 @@
 
 var target = Argument("target", "Default");
 var configuration = Argument("configuration", "Release");
+var cloneUrl = "https://github.com/shaneray/FAO.git";
 
 //////////////////////////////////////////////////////////////////////
 // PREPARATION
@@ -51,7 +52,7 @@ Task("Deploy")
         MoveFile("Index.rename.html", "index.html");
 
         //Push changes to git
-        StartPowershellScript("git remote set-url origin https://github.com/shaneray/FAO.git");
+        StartPowershellScript("git remote set-url origin " + cloneUrl);
         StartPowershellScript("git add -A");
         StartPowershellScript("git commit -a -m \"Commit from Cake\"");
         StartPowershellScript("git push");
