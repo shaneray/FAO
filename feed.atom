@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="/FAO" />
-	<id>/FAO</id>
+	<link rel="self" href="/" />
+	<id>/</id>
 	<title>Facts Are Optional</title>
 	<rights>2017</rights>
-	<updated>2017-07-16T16:41:07Z</updated>
+	<updated>2017-07-30T03:10:06Z</updated>
 	<subtitle>Facts Are Optional</subtitle>
 	<entry>
-		<link href="/FAO/posts/Ep.%252002%2520-%2520Press%2520Whos%2520Coming%2520to%2520Dinner" />
-		<id>/FAO/posts/Ep.%252002%2520-%2520Press%2520Whos%2520Coming%2520to%2520Dinner</id>
+		<link href="/posts/Ep.%252002%2520-%2520Press%2520Whos%2520Coming%2520to%2520Dinner" />
+		<id>/posts/Ep.%252002%2520-%2520Press%2520Whos%2520Coming%2520to%2520Dinner</id>
 		<title>Ep. 02 - “Press Who’s Coming to Dinner”</title>
 		<updated>2017-07-03T15:57:30Z</updated>
 		<content>&lt;p&gt;Who are these people with their microphones, notepads, and cameras? And where do they get the right to stick their noses in… oh, never mind. The press plays an important role in our society. They can also be unbearably annoying. We talk about some of the more pivotal moments in the history of the free press (except for Deep throat).&lt;/p&gt;
@@ -20,8 +20,8 @@
 		<summary>&lt;p&gt;Who are these people with their microphones, notepads, and cameras? And where do they get the right to stick their noses in… oh, never mind. The press plays an important role in our society. They can also be unbearably annoying. We talk about some of the more pivotal moments in the history of the free press (except for Deep throat).&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="/FAO/posts/Ep.%252001%2520-%2520You%2520Cant%2520Say%2520Shit" />
-		<id>/FAO/posts/Ep.%252001%2520-%2520You%2520Cant%2520Say%2520Shit</id>
+		<link href="/posts/Ep.%252001%2520-%2520You%2520Cant%2520Say%2520Shit" />
+		<id>/posts/Ep.%252001%2520-%2520You%2520Cant%2520Say%2520Shit</id>
 		<title>Ep. 01 - "You Can’t Say Shit"</title>
 		<updated>2017-07-02T20:41:37Z</updated>
 		<content>&lt;p&gt;For a seemingly well-liked freedom, the right to free speech has a controversial past and present. How did it come about? When was it challenged? Will it survive? We take look at all of it in a not-so-serious manner.&lt;/p&gt;
