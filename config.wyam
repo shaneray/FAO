@@ -4,4 +4,4 @@
 Settings["Title"] = "Facts Are Optional";
 Settings["Description"] = "Facts Are Optional";
 Settings["Intro"] = "Facts are optional. What is real? What is not? We don’t know either, but we’ll figure it out together.";
-Settings["Host"] = "http://faopodcast.com/"
+Settings["Host"] = "http://faopodcast.com/";
