@@ -10,9 +10,10 @@
 			<title>Facts Are Optional</title>
 			<link>http://www.YourSite.com</link>
 		</image>
-		<itunes:keywords>separate, by, comma, and, space</itunes:keywords>
+		<itunes:keywords>facts, oppinions, fun</itunes:keywords>
 		<itunes:explicit>yes</itunes:explicit>
-		<itunes:image href="http://faopodcast.com//FAO_iTunes.png" />
+		<itunes:image href="http://faopodcast.com/FAO_iTunes.png" />
+		<itunes:author>Jeremy and Liz</itunes:author>
 		<atom:link href="http://faopodcast.com/apple-feed.xml" rel="self" type="application/rss+xml" />
 		<pubDate>Sun, 27 Aug 2017 20:56:38 GMT</pubDate>
 		<lastBuildDate>Sun, 27 Aug 2017 20:56:38 GMT</lastBuildDate>
@@ -28,6 +29,8 @@
     Your browser does not support the audio element.
 &lt;/audio&gt;
 </content:encoded>
+			<enclosure url="http://faopodcast.com/assets/audio/FactsAreOptional_2_Press Who's Coming To Dinner.mp3" length="88783978" type="audio/mp3"/>
+			<itunes:duration>01:00:00</itunes:duration>
 		</item>
 		<item>
 			<title>Ep. 01 - "You Can’t Say Shit"</title>
@@ -41,6 +44,8 @@
     Your browser does not support the audio element.
 &lt;/audio&gt;
 </content:encoded>
+			<enclosure url="http://faopodcast.com/assets/audio/FactsAreOptional_1 _You Can't Say Shit Mixdown 1.mp3" length="88783978" type="audio/mp3"/>
+			<itunes:duration>01:00:00</itunes:duration>
 		</item>
 	</channel>
 </rss>
