@@ -15,7 +15,7 @@
       <itunes:email>Jeremy@faopodcast.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://faopodcast.com/FAO_iTunes.png" />
-    <itunes:category text="News & Politics"/>
+    <itunes:category text="News &amp; Politics"/>
     <atom:link href="http://faopodcast.com/apple-feed.rss" rel="self" type="application/rss+xml" />
       <item>
         <title>Ep. 02 - “Press Who’s Coming to Dinner”</title>
