@@ -1,37 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<title>Facts Are Optional</title>
-		<link>http://faopodcast.com/</link>
-		<description>Facts Are Optional</description>
-		<copyright>2017</copyright>
-		<pubDate>Sun, 27 Aug 2017 20:56:38 GMT</pubDate>
-		<lastBuildDate>Sun, 27 Aug 2017 20:56:38 GMT</lastBuildDate>
-		<item>
-			<title>Ep. 02 - “Press Who’s Coming to Dinner”</title>
-			<link>http://faopodcast.com/posts/Ep.%2002%20-%20Press%20Whos%20Coming%20to%20Dinner</link>
-			<description>&lt;p&gt;Who are these people with their microphones, notepads, and cameras? And where do they get the right to stick their noses in… oh, never mind. The press plays an important role in our society. They can also be unbearably annoying. We talk about some of the more pivotal moments in the history of the free press (except for Deep throat).&lt;/p&gt;</description>
-			<guid>http://faopodcast.com/posts/Ep.%2002%20-%20Press%20Whos%20Coming%20to%20Dinner</guid>
-			<pubDate>Mon, 03 Jul 2017 15:57:30 GMT</pubDate>
-			<content:encoded>&lt;p&gt;Who are these people with their microphones, notepads, and cameras? And where do they get the right to stick their noses in… oh, never mind. The press plays an important role in our society. They can also be unbearably annoying. We talk about some of the more pivotal moments in the history of the free press (except for Deep throat).&lt;/p&gt;
-&lt;audio controls&gt;
-    &lt;source src="../assets/audio/FactsAreOptional_2_Press Who's Coming To Dinner.mp3" type="audio/mpeg"&gt;
-    Your browser does not support the audio element.
-&lt;/audio&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>Ep. 01 - "You Can’t Say Shit"</title>
-			<link>http://faopodcast.com/posts/Ep.%2001%20-%20You%20Cant%20Say%20Shit</link>
-			<description>&lt;p&gt;For a seemingly well-liked freedom, the right to free speech has a controversial past and present. How did it come about? When was it challenged? Will it survive? We take look at all of it in a not-so-serious manner.&lt;/p&gt;</description>
-			<guid>http://faopodcast.com/posts/Ep.%2001%20-%20You%20Cant%20Say%20Shit</guid>
-			<pubDate>Sun, 02 Jul 2017 20:41:37 GMT</pubDate>
-			<content:encoded>&lt;p&gt;For a seemingly well-liked freedom, the right to free speech has a controversial past and present. How did it come about? When was it challenged? Will it survive? We take look at all of it in a not-so-serious manner.&lt;/p&gt;
-&lt;audio controls&gt;
-    &lt;source src="../assets/audio/FactsAreOptional_1 _You Can't Say Shit Mixdown 1.mp3" type="audio/mpeg"&gt;
-    Your browser does not support the audio element.
-&lt;/audio&gt;
-</content:encoded>
-		</item>
+    <title>Facts Are Optional</title>
+    <link>http://faopodcast.com/</link>
+    <language>en</language>
+    <copyright>2017</copyright>
+    <itunes:explicit>yes</itunes:explicit>
+    <itunes:subtitle>Facts Are Optional Podcast</itunes:subtitle>
+    <itunes:author>Jeremy and Liz</itunes:author>
+    <itunes:summary>Facts are optional. What is real? What is not? We don’t know either, but we’ll figure it out together.</itunes:summary>  
+    <description>Facts are optional. What is real? What is not? We don’t know either, but we’ll figure it out together.</description>
+    <itunes:owner>
+      <itunes:name>Jeremy</itunes:name>
+      <itunes:email>Jeremy@faopodcast.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://faopodcast.com/FAO_iTunes.png" />
+    <itunes:category text="News &amp; Politics"/>
+    <atom:link href="http://faopodcast.com/apple-feed.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Ep. 02 - “Press Who’s Coming to Dinner”</title>
+        <itunes:author>Jeremy and Liz</itunes:author>
+        <itunes:subtitle>Press Who’s Coming to Dinner</itunes:subtitle>
+	<itunes:image href="http://faopodcast.com/FAO_iTunes.png" />
+        <itunes:summary>who are these people with their microphones, notepads, and cameras? And where do they get the right to stick their noses in… </itunes:summary>
+        <enclosure url="http://faopodcast.com/assets/audio/FactsAreOptional_2_Press%20Who's%20Coming%20To%20Dinner.mp3" length="10000" type="audio/mpeg"/>
+        <guid>http://faopodcast.com/posts/Ep.%2002%20-%20Press%20Whos%20Coming%20to%20Dinner</guid>
+        <pubDate>Mon, 03 Jul 2017 15:57:30 GMT</pubDate>
+        <itunes:duration>01:00:00</itunes:duration>
+      </item>
+		
+      <item>
+        <title>Ep. 01 - "You Can’t Say Shit"</title>
+        <itunes:author>Jeremy and Liz</itunes:author>
+        <itunes:subtitle>You Can’t Say Shit</itunes:subtitle>
+	<itunes:image href="http://faopodcast.com/FAO_iTunes.png" />
+        <link>http://faopodcast.com/posts/Ep.%2001%20-%20You%20Cant%20Say%20Shit</link>
+        <itunes:summary>For a seemingly well-liked freedom, the right to free speech has a controversial past and present. How did it come about? When was it challenged? Will it survive? We take look at all of it in a not-so-serious manner.</itunes:summary>
+        <guid>http://faopodcast.com/posts/Ep.%2001%20-%20You%20Cant%20Say%20Shit</guid>
+        <pubDate>Sun, 02 Jul 2017 20:41:37 GMT</pubDate>
+        <enclosure url="http://faopodcast.com/assets/audio/FactsAreOptional_1%20_You%20Can't%20Say%20Shit%20Mixdown%201.mp3" length="88783978" type="audio/mp3"/>
+        <itunes:duration>01:00:00</itunes:duration>
+     </item>
+		
 	</channel>
 </rss>
