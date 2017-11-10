@@ -20,6 +20,7 @@
       <item>
         <title>Ep. 02 - “Press Who’s Coming to Dinner”</title>
         <itunes:author>Jeremy and Liz</itunes:author>
+	<itunes:explicit>yes</itunes:explicit>
         <itunes:subtitle>Press Who’s Coming to Dinner</itunes:subtitle>
 	<itunes:image href="http://faopodcast.com/FAO_iTunes.png" />
         <itunes:summary>who are these people with their microphones, notepads, and cameras? And where do they get the right to stick their noses in… </itunes:summary>
@@ -32,6 +33,7 @@
       <item>
         <title>Ep. 01 - "You Can’t Say Shit"</title>
         <itunes:author>Jeremy and Liz</itunes:author>
+	<itunes:explicit>yes</itunes:explicit>
         <itunes:subtitle>You Can’t Say Shit</itunes:subtitle>
 	<itunes:image href="http://faopodcast.com/FAO_iTunes.png" />
         <link>http://faopodcast.com/posts/Ep.%2001%20-%20You%20Cant%20Say%20Shit</link>
